@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "imageName": "duplicati/duplicati:2.0.4.23_beta_2019-07-14"
+  "imageName": "linuxserver/duplicati"
 }
